@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Muhammad Rafi
 #### Web Application Developer
-![Web Application Developer](https://media-exp1.licdn.com/dms/image/C4D16AQFwq6bkHKbo0g/profile-displaybackgroundimage-shrink_200_800/0/1654935200692?e=1660780800&v=beta&t=-PX-DuxbJvCTBHipMP-joR8FZUVrywY_9lFv2N5gPvI)
+![Web Application Developer](https://media.licdn.com/dms/image/D5616AQGUjKfBSVY0fw/profile-displaybackgroundimage-shrink_350_1400/0/1671641291240?e=1683158400&v=beta&t=XitYDyEzbsHaejnIsFK7EH8czUkRgmEt8ydD1w5jATc)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
