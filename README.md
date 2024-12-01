@@ -2,7 +2,7 @@
 #### A passionate Web Application Developer from Bangladesh
 ![A passionate Web Application Developer from Bangladesh](https://media.licdn.com/dms/image/v2/D5616AQEOUdcPuVo_yA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732118650372?e=1738800000&v=beta&t=1lx6m9YUck1zCH12-0SjZtU_CK5Gr7l6ivoXCcav-0A)
 
-As a seasoned Web Application Developer, I have a wealth of experience working at Oxyjon Company and possess expertise in PHP, Laravel, React JS, and PWA Development. I have a proven track record of delivering high-quality web applications that meet the needs of clients, and I'm always looking to take on new challenges and expand my skill set.<br>
+
 
 <img align='left' src='https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white'> 
 <img align='left' src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'> 
