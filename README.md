@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rafi
 #### A passionate Web Application Developer from Bangladesh
-![A passionate Web Application Developer from Bangladesh](https://media.licdn.com/dms/image/D5616AQGLG01cipF-Sg/profile-displaybackgroundimage-shrink_200_800/0/1685036555200?e=2147483647&v=beta&t=2Y6LJ1imkTpdrutGDM_lXET-J94_-7W1fB6a9H8ELHw)
+![A passionate Web Application Developer from Bangladesh](https://media.licdn.com/dms/image/v2/D5616AQEOUdcPuVo_yA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732118650372?e=1738800000&v=beta&t=1lx6m9YUck1zCH12-0SjZtU_CK5Gr7l6ivoXCcav-0A)
 
 As a seasoned Web Application Developer, I have a wealth of experience working at Oxyjon Company and possess expertise in PHP, Laravel, React JS, and PWA Development. I have a proven track record of delivering high-quality web applications that meet the needs of clients, and I'm always looking to take on new challenges and expand my skill set.<br>
 
