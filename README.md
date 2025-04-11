@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rafi
 #### A passionate Web Application Developer from Bangladesh
-![A passionate Web Application Developer from Bangladesh](https://media.licdn.com/dms/image/v2/D5616AQEOUdcPuVo_yA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732118650372?e=1738800000&v=beta&t=1lx6m9YUck1zCH12-0SjZtU_CK5Gr7l6ivoXCcav-0A)
+![A passionate Web Application Developer from Bangladesh]
 
 
 
