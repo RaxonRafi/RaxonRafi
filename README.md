@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Rafi
 #### A passionate Web Application Developer from Bangladesh
-![A passionate Web Application Developer from Bangladesh]
 
 
 
