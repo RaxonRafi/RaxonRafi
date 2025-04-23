@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Rafi
 #### A passionate Web Application Developer from Bangladesh
-
-
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGdUAE3ySYjjg/profile-displaybackgroundimage-shrink_350_1400/B56ZZjOZt1GQAk-/0/1745421444201?e=1750896000&v=beta&t=coaHpEu3oTQU3IMPi_BfOZKZ-4Lyli3c_k0m_ml30Wc" alt="banner" width="100%" />
 
 <img align='left' src='https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white'> 
 <img align='left' src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'> 
