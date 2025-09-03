@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Rafi
 #### Software Engineer | Full-Stack Developer from Bangladesh
 I’m a Software Engineer passionate about solving problems and building scalable products. My experience spans the MERN stack, Laravel, Python, TypeScript, and PostgreSQL, where I focus on writing clean and efficient code that transforms ideas into working solutions.
+
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFcejW1ZYSKvg/profile-displaybackgroundimage-shrink_350_1400/B56ZkFqOadHAAY-/0/1756736580309?e=1759968000&v=beta&t=gfHhnZaWsKGFeNM4jeEtIPDmeJhh1-7SmOMbe_fybn8" alt="banner" width="100%" />
 
 <img align='left' src='https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white'> 
