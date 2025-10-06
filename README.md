@@ -6,7 +6,7 @@ I’m passionate about solving problems and building scalable products. My exper
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdmashruulislam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammad_rafi_official_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mashruul-islam) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/muhammad-mash-rafi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RaxonRafi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.muhammad.rafi@gmail.com) 
 
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQF_dtiFsqnwMg/profile-displaybackgroundimage-shrink_350_1400/B56ZkgMQNZJ8Ac-/0/1757181709498?e=1759968000&v=beta&t=5Y9Db6wZpk_F5qxm-tX_uEfKTU0JZJxzk2UUJiQNjhw" alt="banner" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGzFS297QBfcg/profile-displaybackgroundimage-shrink_350_1400/B56Zmfw7NPI0AY-/0/1759322028569?e=1762387200&v=beta&t=-3c5AmchHTVLbZD5r4esVF65SQtEXkqUoq4qZtjlfO4" alt="banner" width="100%" />
 
 
 # 💻 Tech Stack:
