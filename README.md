@@ -14,10 +14,6 @@ I’m passionate about solving problems and building scalable products. My exper
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=RaxonRafi&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=RaxonRafi&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RaxonRafi&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaxonRafi&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 
 ### ✍️ Random Dev Quote
